@@ -1,2 +1,8 @@
 Function Main() returns nothing 
 integer array{8.} milesGallon
+
+Corrected Code below
+
+Funcion Main() returns nothing 
+
+  Put "Corrected" to output
